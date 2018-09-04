@@ -6,7 +6,7 @@ List of Articles/Research papers that I found interesting
 
 * [**The spread of true and false news online** - by *Roy, Aral and Vosoughi*](http://science.sciencemag.org/content/359/6380/1146.full)
  
-* [**FiveThirtyEight**](https://fivethirtyeight.com/) used to have a [`In the Papers`](https://fivethirtyeight.com/tag/in-the-papers/) section which carried a summary of the new papers published in NBER. My aim is also to write a summary of the papers in the same manner.  
+* [**FiveThirtyEight**](https://fivethirtyeight.com/) used to have a [`In the Papers`](https://fivethirtyeight.com/tag/in-the-papers/) section which carried a summary of the new papers published in NBER. My aim is to write a summary of the papers in the same manner.  
 
 
 
