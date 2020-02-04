@@ -1,6 +1,6 @@
-# Reading
-List of Articles/Research papers that I found interesting
+# Research Papers 
 
+*more to be added*
 
 * [**Should social science be more solution-oriented?** - by *Duncan Watts*](https://www.nature.com/articles/s41562-016-0015)
 
