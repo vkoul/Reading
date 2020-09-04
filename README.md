@@ -9,4 +9,16 @@
 * [**FiveThirtyEight**](https://fivethirtyeight.com/) used to have a [`In the Papers`](https://fivethirtyeight.com/tag/in-the-papers/) section which carried a summary of the new papers published in NBER. My aim is to write a summary of the papers in the same manner.  
 
 
+Collection of Research Papers/ Articles
+
+* [**Applied ML**](https://github.com/eugeneyan/applied-ml)
+
+* [**ML Surveys**](https://github.com/eugeneyan/ml-surveys)
+
+* [**100 Must-Read NLP Papers**](https://github.com/mhagiwara/100-nlp-papers)
+
+* [**Deep Learning Roadmap**](https://github.com/astorfi/Deep-Learning-Roadmap)
+
+
+
 
