@@ -1,4 +1,4 @@
-# Research Papers 
+# Research Papers [![HitCount](http://hits.dwyl.com/vkoul/Reading.svg)](http://hits.dwyl.com/vkoul/Reading)
 
 *more to be added*
 
@@ -18,6 +18,8 @@ Collection of Research Papers/ Articles
 * [**100 Must-Read NLP Papers**](https://github.com/mhagiwara/100-nlp-papers)
 
 * [**Deep Learning Roadmap**](https://github.com/astorfi/Deep-Learning-Roadmap)
+
+* [**NLP Paper Summaries**](https://github.com/dair-ai/nlp_paper_summaries)
 
 
 
