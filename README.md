@@ -21,6 +21,8 @@ Collection of Research Papers/ Articles
 
 * [**NLP Paper Summaries**](https://github.com/dair-ai/nlp_paper_summaries)
 
+* [**Paper Sprays**](https://github.com/kumarkrishna/paper-spray)
+
 
 
 
