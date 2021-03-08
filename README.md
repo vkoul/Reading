@@ -1,4 +1,4 @@
-# Research Papers [![HitCount](http://hits.dwyl.com/vkoul/Reading.svg)](http://hits.dwyl.com/vkoul/Reading)
+# Research Papers 
 
 *more to be added*
 
