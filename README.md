@@ -23,6 +23,9 @@ Collection of Research Papers/ Articles
 
 * [**Paper Sprays**](https://github.com/kumarkrishna/paper-spray)
 
+* [**A Curated List of Must-read Papers on Recommender System**](https://github.com/hongleizhang/RSPapers)
+
+
 
 
 
